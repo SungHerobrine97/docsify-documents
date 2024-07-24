@@ -1,3 +1,3 @@
-# Headline
+# Welcome to reading this document.
 
-> This is a Gino.
+The document is coming soon.
