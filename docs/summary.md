@@ -1,4 +1,4 @@
 ## Important Introduction
 
 * [主页](/)
-* [Intro](docs/Intro.md)
+* [奠基](docs/Intro.md)
