@@ -1,4 +1,4 @@
 - 主页
     - [主页](/)
     - [奠基](/docs/Intro)
-      - [范本](/docs/intro-indo)
+      - [范本](/docs/intro-info)
