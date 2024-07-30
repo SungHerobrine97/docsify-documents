@@ -1,6 +1,6 @@
 # 替换操作系统内的文件
 
-~~本文基于[这个文章](https://www.bilibili.com/read/cv16431818)适当修改。~~（你这不废话吗，作者是MixerWangDev为什么还要这么写）
+~~本文基于[这个文章](https://www.bilibili.com/read/cv16431818)适当修改。~~（你这不废话吗，本文作者是MixerWangDev为什么还要这么写）
 
 ## 明确操作系统版本
 
