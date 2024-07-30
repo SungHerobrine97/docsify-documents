@@ -90,8 +90,8 @@ SERVICE_NAME: null
 
 本文的写成参考了这些文章和站点，感谢。
 
-1. [WinRAR](https://winrar.com.cn)
+1. [WinRAR（可选）](https://winrar.com.cn)
 2. [dism++ by Team Chuyu（初雨团队）](https://github.com/Chuyu-Team/Dism-Multi-language)
 3. [DISM命令行选项](https://learn.microsoft.com/zh-cn/windows-hardware/manufacture/desktop/dism-image-management-command-line-options-s14)
-4. [UltraISO](https://ultraiso.net/)
+4. [UltraISO（可选）](https://ultraiso.net/)
 5. [原文](https://www.bilibili.com/read/cv16431818)
