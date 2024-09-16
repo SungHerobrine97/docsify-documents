@@ -6,6 +6,8 @@
 
 有很多种办法可以确定操作系统的版本。
 
+> [!TIP]
+> 
 > 如果你嫌这一大标题内容不相关，请跳过。（Win11请明确你的操作系统更新，否则替换的文件可能会无法运行。）
 > 
 > Win10最终支持的版本为22H2，如果你的版本为20H1请搜索“Win 10 20H1原版镜像”下载（**请勿下载二次封装的系统**）
@@ -26,17 +28,21 @@
 
 ### 使用dism.exe
 
-> 建议安装UltraISO，鉴于Win10已经支持直接挂载iso文件，这里仅做提醒防止问题。
+> [!NOTE]
+> 
+> 建议安装UltraISO，鉴于Win10已经支持直接挂载iso文件，这里仅做提醒防止出现问题。
 
 首先，找到对应原版的镜像（或者你从微软官网下载的镜像），双击装载（或者右键点击“装载”）。（镜像大小大约4-5GB）。
 
-转载后如图。
+装载后如图。
 
 ![3.png](3.png)
 
 然后以管理员身份运行命令提示符，运行指令。
 
-`dism /Mount-Image /ImageFile:C:\install.wim /Index:1 /ReadOnly /MountDir:<put your mount dir here>`
+```
+dism /Mount-Image /ImageFile:C:\install.wim /Index:1 /ReadOnly /MountDir:<put your mount dir here>
+```
 
 将put your mount dir here替换为你想要挂载的目录（别带括号）。
 
