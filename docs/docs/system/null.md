@@ -40,6 +40,8 @@
 
 将put your mount dir here替换为你想要挂载的目录（别带括号）。
 
+> [!WARNING]
+> 
 > 警告！如果你看到D:/sources文件夹的一大堆文件，切勿惊慌。找install.esd文件或者install.wim
 > 
 > 切勿贸然装载esd文件，否则会遇到“试图加载格式不正确的程序。”的报错。此时接下来我们将使用dism++挂载。
