@@ -1,3 +1,3 @@
-# Welcome to reading this document.
+# 感谢您阅读此文档。
 
-The document is coming soon.
+点击侧边栏的条目以开始。
