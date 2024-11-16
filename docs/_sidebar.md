@@ -1,5 +1,6 @@
 * 主页
     * [主页](/)
+* [一些笔记](/docs/letters)
 * 基础
     * [奠基](/docs/Intro)
     * [范本](/docs/intro-info)
