@@ -1,0 +1,43 @@
+name: "提交文档"
+description: "用于投稿一篇文档。"
+title: "提交一份文档，一旦通过将会部署到文档站当中。"
+body:
+  - type: markdown
+    attributes:
+      value: |
+        请按照以下模板提交文档，我们会尽快审核并部署到文档站当中。(目前仅支持中文)
+  - type: input
+    id: link
+    attributes:
+      label: 文档出处
+      description: 请提供文档的出处地址。如果是原创文档，留空即可。（如果是多个链接用""（英文引号）分隔）
+      placeholder: https://example.com/docs
+      required: false
+  - type: dropdown
+    id: type
+    attributes:
+      label: 文档类型
+      description: 请选择文档的类型。
+      options:
+        - "原创"
+        - "转载"
+        - "翻译"
+        - "其他"
+  - type: markdown
+    attributes:
+      value: |
+        ## 文档链接部分
+  - type: input
+    id: docs_link
+    attributes:
+      label: 文档链接
+      description: 请提供文档的链接地址（一个就行）。
+      placeholder: https://example.com/docs
+      required: true
+  - type: input
+    id: feedback
+    attributes:
+      label: 反馈链接
+      description: 有什么想说的？
+      placeholder: 说两句......
+      required: false
