@@ -1,4 +1,11 @@
-# 提交一篇文档
+---
+name: Custom issue template
+about: Describe this issue template's purpose here.
+title: 提交一篇文档
+labels: ''
+assignees: SungHerobrine97
+
+---
 
 目前仅支持简体中文（中华人民共和国）
 
@@ -27,4 +34,3 @@
     * https://null3.null.org/
 
 **评论**（说两句） ：
-
