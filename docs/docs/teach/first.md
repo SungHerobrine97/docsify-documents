@@ -38,7 +38,7 @@
 * *.psd Photoshop照片文档
 * *.psdc 同上，但是云文档（）
 * *.adofai 这是你的谱面文件，不标准的JSON文本
-* *.png *.jpg 照片文件
+* *.png *.jpg 照片文件（装饰文件）
 * *.svg 矢量图形文件，不可以丢进ADOFAI
 * *.mp4 视频文件，ADOFAI会用它当视频背景
 * *.txt 文本文档，你想把歌词丢进ADOFAI时会用到它
