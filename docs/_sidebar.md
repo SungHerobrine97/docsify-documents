@@ -8,3 +8,5 @@
 * [更改日志](/docs/changelog)
   * [2024年8月16日更新](/docs/changelog/20240816)
   * [2024年9月16日常规修补](/docs/changelog/20240916)
+* ADOFAI谱师从入门到精通
+  * [序章](docs/teach/first)
