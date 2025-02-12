@@ -10,4 +10,4 @@
   * [2024年9月16日常规修补](/docs/changelog/20240916)
   * [2025年2月10日更新](/docs/changelog/20250210)
 * ADOFAI谱师从入门到精通
-  * [序章](docs/teach/first)
+  * [序章](/docs/teach/first)
