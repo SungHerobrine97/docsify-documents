@@ -14,3 +14,4 @@
 * ADOFAI谱师从入门到精通
   * [序章](/docs/teach/first)
   * [认识ADOFAI编辑器UI](/docs/teach/ui)
+* [后话：有生之年](/docs/end)
