@@ -15,3 +15,4 @@
   * [序章](/docs/teach/first)
   * [认识ADOFAI编辑器UI](/docs/teach/ui)
 * [后话：有生之年](/docs/end)
+* [Office 365组织登录说明](/docs/org-o365/faq/)
